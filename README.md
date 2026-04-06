@@ -1,4 +1,4 @@
-# Healthcare Cybersecurity & Network Security — CMIT 320 Network Security| UMGC
+# Healthcare Cybersecurity | Network Security - CMIT 320 | UMGC
 Verified coursework from the University of Maryland Global Campus.  
 Topics covered: IoMT vulnerability research, CVE analysis, physical security planning, HIPAA/PII/PHI compliance training, and hospital security architecture.
 
