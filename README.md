@@ -1,8 +1,8 @@
-# Healthcare Cybersecurity | Network Security - CMIT 320 | UMGC
-Verified coursework from the University of Maryland Global Campus.  
-Topics covered: IoMT vulnerability research, CVE analysis, physical security planning, HIPAA/PII/PHI compliance training, and hospital security architecture.
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/%20%F0%9F%8F%A5%20Healthcare%20Cybersecurity%20%7C%20Network%20Security%20%7C%20CMIT%20320%20%7C%20UMGC%20%F0%9F%8F%A5-922B21?style=for-the-badge&logoColor=white" height="75" width="100%" />
+</div>
+
 
 ## 🏥 Project Scenario
 
@@ -10,7 +10,7 @@ All projects in this course were completed in the role of a **Security Analyst a
 
 ---
 
-## 📊 CompTIA Security+ Assessment
+## 📊 UMGC CMIT 320 Network Security | Relates to: CompTIA Security+ Assessment 
 
 <div align="center">
   <img src="https://img.shields.io/badge/CompTIA_Security%2B_SY0--601-96%25_Score-922B21?style=for-the-badge&logo=comptia&logoColor=white" height="50" />
